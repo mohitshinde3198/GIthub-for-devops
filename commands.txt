@@ -21,9 +21,4 @@ git init
   27 git status
   28 git add commands.txt
   29 git commit -m "added text files"
-  30 git remote add origin https://github.com/mohitshinde3198/GIthub-for-devops.git
-  31 git remote -v
-  32 git status
-  33 git push origin master   
-  35 git remote -v
-  36 git push origin master
+
