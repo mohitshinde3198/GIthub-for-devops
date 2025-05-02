@@ -24,7 +24,6 @@ git init
   30 git remote add origin https://github.com/mohitshinde3198/GIthub-for-devops.git
   31 git remote -v
   32 git status
-  33 git push origin master
-  34 git remote set-url origin https://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@github.com/mohitshinde3198/GIthub-for-devops.git    
+  33 git push origin master   
   35 git remote -v
   36 git push origin master
